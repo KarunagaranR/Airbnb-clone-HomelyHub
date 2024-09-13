@@ -4,6 +4,7 @@ HomelyHub - MERN Stack
 
 Key Skills:Full Stack, React.js, JavaScript, MongoDB, NodeJS  
 
+
 Description
 **HomelyHub** is a clone of Airbnb, providing a platform for finding and booking unique places to stay while traveling. From cozy homes to fancy villas, users can explore a variety of accommodations that suit their needs.
 
